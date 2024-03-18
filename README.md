@@ -1,2 +1,2 @@
 # ReactList
-# to run this -> npm run dev
+ to run this -> npm run dev
